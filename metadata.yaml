@@ -1,0 +1,26 @@
+_repo: The-Girl-from-Keller-s_3663
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bindloss, Harold
+    birthdate: 1866
+    deathdate: 1945
+    gutenberg_agent_id: '1256'
+    url: http://www.gutenberg.org/2009/agents/1256
+    wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
+description: One of his novels set in the period of settlement on the prairies.
+gutenberg_issued: '2006-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3663'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Canada -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Marriage -- Fiction'
+- GITenberg
+title: The Girl from Keller's
+url: http://www.gutenberg.org/ebooks/3663
